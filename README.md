@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnaLuizaAc
 - 👀 I’m interested in develop websites
-- 🌱 I’m currently learning HTML, php, javaScript and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me with my social networks instagram: @ana_luizza65 or email: aluizaacacia@gmail.com
+- 📫 How to reach me with my social networks email: aluizaacacia@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
